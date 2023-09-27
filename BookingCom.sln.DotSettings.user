@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2ac58a81_002D8754_002D4934_002D81c2_002D6df4f1621527/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestUL" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DD7927B-3104-4CD6-A810-3DAC0F9B0173::net7.0::DemoQA.TestClass3.TestUL&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DD7927B-3104-4CD6-A810-3DAC0F9B0173::net7.0::DemoQA.AssertsTestClass.RegularAssert&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DD7927B-3104-4CD6-A810-3DAC0F9B0173::net7.0::DemoQA.BookingCom.Booking.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DD7927B-3104-4CD6-A810-3DAC0F9B0173::net7.0::DemoQA.FileUploader.Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a521ea7d_002Dd9e1_002D4980_002Dae7d_002D713095cdde7f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DD7927B-3104-4CD6-A810-3DAC0F9B0173::net7.0::DemoQA.BookingCom.Booking.Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=62bc54cb_002D091b_002D421f_002Da9ec_002D574dc87636de/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DD7927B-3104-4CD6-A810-3DAC0F9B0173::net7.0::DemoQA.BookingCom.Booking&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FAA459E2-3796-4B02-BB4F-7C8F8443D311::net7.0::Booking.Tests.GenericSearchResultsTests.VerifyGenericSearchResults&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/SpawnedProcessesKnownList/=chromedriver_002Eexe/@EntryIndexedValue">KillOrphaned</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/SpawnedProcessesKnownList/=conhost_002Eexe/@EntryIndexedValue">KillOrphaned</s:String></wpf:ResourceDictionary>
